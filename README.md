@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MPasca
+- 👀 I’m interested in learning more about everything computer graphics related.
+- 🌱 I’m currently studying Computer Science at the Technical University of Cluj-Napoca.
