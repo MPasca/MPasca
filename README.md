@@ -1,6 +1,6 @@
 # Hello, friend!
 
-I'm Maria Pasca, a TUCN Computer Science and Information Technology graduate.
+I'm Maria Pasca, a TUCN Computer Science and Information Technology graduate currently pursuing a master's degree in Artificial Intelligence and Computer Vision at the same University, where, starting from October, I will also teach Graphics Processing and Computer Assisted Graphics laboratories.
 
 Ever since I was a child I had an affinity towards learning and solving puzzles, that I kept with me all these years and it didn't falter one bit.
 
