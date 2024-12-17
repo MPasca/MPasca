@@ -1,5 +1,3 @@
-# Hello!
-
 TUC-N Computer Science and Information Technology graduate.
 
 Pursuing a Master's degree in Artificial Intelligence and Vision at the same University.
